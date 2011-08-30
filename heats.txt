@@ -1,0 +1,60 @@
+ 1 [  ]         Ryland [   ]            Gabe [   ]            Seth [   ]
+
+ 2 [  ]          Ammon [   ]          Austin [   ]            Kyle [   ]
+
+ 3 [  ]            Ace [   ]           Gavin [   ]         Cameron [   ]
+
+ 4 [  ]         Ryland [   ]           Ammon [   ]           Keith [   ]
+
+ 5 [  ]           Gabe [   ]          Austin [   ]             Ace [   ]
+
+ 6 [  ]           Seth [   ]            Kyle [   ]           Gavin [   ]
+
+ 7 [  ]           Gabe [   ]         Cameron [   ]           Keith [   ]
+
+ 8 [  ]         Ryland [   ]          Austin [   ]           Gavin [   ]
+
+ 9 [  ]           Seth [   ]           Ammon [   ]             Ace [   ]
+
+10 [  ]         Ryland [   ]            Kyle [   ]         Cameron [   ]
+
+11 [  ]           Seth [   ]          Austin [   ]           Keith [   ]
+
+12 [  ]           Gabe [   ]           Ammon [   ]           Gavin [   ]
+
+13 [  ]           Kyle [   ]             Ace [   ]           Keith [   ]
+
+14 [  ]         Austin [   ]         Cameron [   ]
+
+15 [  ]         Ryland [   ]             Ace [   ]
+
+16 [  ]           Seth [   ]         Cameron [   ]
+
+17 [  ]           Gabe [   ]            Kyle [   ]
+
+18 [  ]          Gavin [   ]           Keith [   ]
+
+19 [  ]          Ammon [   ]         Cameron [   ]
+
+
+---------- results ----------
+    Ryland won: [   ] of 5 = [    ]
+
+      Gabe won: [   ] of 5 = [    ]
+
+      Seth won: [   ] of 5 = [    ]
+
+     Ammon won: [   ] of 5 = [    ]
+
+    Austin won: [   ] of 5 = [    ]
+
+      Kyle won: [   ] of 5 = [    ]
+
+       Ace won: [   ] of 5 = [    ]
+
+     Gavin won: [   ] of 5 = [    ]
+
+   Cameron won: [   ] of 6 = [    ]
+
+     Keith won: [   ] of 5 = [    ]
+
